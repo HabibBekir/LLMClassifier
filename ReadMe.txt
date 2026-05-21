@@ -1,4 +1,4 @@
-##Test technique Santévet - Classification de messages clients
+##Classification de messages clients
 
 Prototype de classification avec extraction d'entités (nom_animal, espece, numero_contrat) via LLM local (Ollama).
 
