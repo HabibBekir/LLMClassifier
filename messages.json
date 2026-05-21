@@ -1,0 +1,129 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "sujet": "Urgence vétérinaire",
+      "contenu": "Bonjour, mon chat Moustache s'est fait renverser par une voiture ce matin. Il est actuellement en soins intensifs à la clinique. Pouvez-vous me confirmer que les frais seront pris en charge ? Contrat n°SAV-2023-78542."
+    },
+    {
+      "id": 2,
+      "sujet": "Résiliation",
+      "contenu": "Je souhaite résilier mon contrat. Mon chien Oscar est malheureusement décédé la semaine dernière. Merci de procéder à l'arrêt des prélèvements."
+    },
+    {
+      "id": 3,
+      "sujet": "Question",
+      "contenu": "Bonjour, est-ce que la stérilisation de ma chatte est remboursée ? Elle a 8 mois et le vétérinaire me propose de la faire le mois prochain. Merci"
+    },
+    {
+      "id": 4,
+      "sujet": "Remboursement en attente",
+      "contenu": "Cela fait 3 semaines que j'ai envoyé la facture pour les soins de Filou (ref: SAV-2022-11234) et je n'ai toujours rien reçu. Pouvez-vous me dire où en est mon dossier ??"
+    },
+    {
+      "id": 5,
+      "sujet": "Changement adresse",
+      "contenu": "Bonjour, je déménage le 15 du mois prochain. Ma nouvelle adresse sera 45 rue des Lilas, 69003 Lyon. Pouvez-vous mettre à jour mon dossier ? Cordialement"
+    },
+    {
+      "id": 6,
+      "sujet": "URGENT",
+      "contenu": "Mon golden retriever Rocky a avalé une chaussette hier soir, on a du l'opérer en urgence cette nuit. La facture est de 1 800€. Je vous envoie tout par mail. Contrat SAV-2024-92311."
+    },
+    {
+      "id": 7,
+      "sujet": "Pas content du tout",
+      "contenu": "C'est inadmissible ! Vous refusez de me rembourser les soins de mon chat sous prétexte d'un délai de carence. J'ai souscrit il y a 4 mois, c'est du vol ! Je veux résilier immédiatement."
+    },
+    {
+      "id": 8,
+      "sujet": "Renseignement formule",
+      "contenu": "Bonjour, j'hésite entre la formule Confort et la formule Premium pour mon chiot berger australien de 3 mois. Quelle est la différence de plafond annuel ? Et les franchises ?"
+    },
+    {
+      "id": 9,
+      "sujet": "Facture véto",
+      "contenu": "Ci-joint la facture pour la consultation + vaccins de Nala. Merci de procéder au remboursement sur mon RIB habituel."
+    },
+    {
+      "id": 10,
+      "sujet": "Question délai",
+      "contenu": "Bonjour j'ai souscrit la semaine dernière pour mon chat Simba. Il tousse depuis 2 jours, est ce que je peux déjà l'emmener chez le véto et être remboursé ou il y a un délai ?"
+    },
+    {
+      "id": 11,
+      "sujet": "Hospitalisation",
+      "contenu": "Ma chienne Luna (croisée labrador) est hospitalisée depuis 3 jours pour une pyomètre. L'opération a eu lieu hier. Je vous transmettrai les documents dès sa sortie. N° contrat : SAV-2021-45678"
+    },
+    {
+      "id": 12,
+      "sujet": "Stop",
+      "contenu": "Arretez de me prélever. J'ai vendu mon appartement et donné le chat à ma mère qui vit en Belgique. Je ne veux plus de votre assurance."
+    },
+    {
+      "id": 13,
+      "sujet": "Vaccins",
+      "contenu": "Bonjour, les rappels de vaccins annuels sont-ils inclus dans ma formule ? Mon véto me dit que ça coute 85€ pour Pepette. Merci de votre retour."
+    },
+    {
+      "id": 14,
+      "sujet": "RE: Votre demande",
+      "contenu": "Je vous ai déjà envoyé la facture 2 fois ! Une fois par courrier et une fois par mail le 12/03. Mon chien s'appelle Roky, c'est un bouledogue français, contrat SAV-2023-33421. Remboursez moi svp"
+    },
+    {
+      "id": 15,
+      "sujet": "Accident parc",
+      "contenu": "Bonjour, hier au parc mon chat Tigrou s'est battu avec un autre chat et il a une grosse griffure à l'oeil. RDV véto ophtalmo demain matin. Je vous tiens informé."
+    },
+    {
+      "id": 16,
+      "sujet": "Question bête",
+      "contenu": "Bonjour, c'est peut-être une question bête mais est-ce que l'assurance couvre aussi les NAC ? J'ai un furet et je voudrais savoir si vous proposez quelque chose."
+    },
+    {
+      "id": 17,
+      "sujet": "Merci",
+      "contenu": "Juste un petit mot pour vous remercier, le remboursement des soins de Cookies a été super rapide ! Bonne continuation à votre équipe."
+    },
+    {
+      "id": 18,
+      "sujet": "Ajout animal",
+      "contenu": "Bonjour, on vient d'adopter un deuxième chat. Il s'appelle Pixel, c'est un british shorthair de 2 ans. Comment je fais pour l'ajouter à mon contrat existant ?"
+    },
+    {
+      "id": 19,
+      "sujet": "Problème prélèvement",
+      "contenu": "Bonjour, j'ai vu que vous m'avez prélevé 2 fois ce mois-ci (45€ le 5 et 45€ le 12). C'est normal ? Sinon merci de me rembourser le trop perçu."
+    },
+    {
+      "id": 20,
+      "sujet": "Chirurgie programmée",
+      "contenu": "Mon vétérinaire veut opérer Gribouille (chat européen 6 ans) pour une tumeur mammaire. Opération prévue le 22. Montant estimé : 650€. Est-ce couvert par mon contrat SAV-2020-88123 ?"
+    },
+    {
+      "id": 21,
+      "sujet": null,
+      "contenu": "bnj je voudrai savoir pk mon rembourssement est pa arrivé. ca fai 1 moi. merci"
+    },
+    {
+      "id": 22,
+      "sujet": "Décès de mon compagnon",
+      "contenu": "C'est avec beaucoup de tristesse que je vous annonce le décès de Max, mon fidèle compagnon depuis 14 ans. Il s'est éteint paisiblement hier. Je souhaite clôturer son contrat. Merci pour ces années de service."
+    },
+    {
+      "id": 23,
+      "sujet": "RDV annuel",
+      "contenu": "Bonjour, visite annuelle de Caramel effectuée. Tout va bien ! Facture de 62€ en PJ pour la consultation de contrôle."
+    },
+    {
+      "id": 24,
+      "sujet": "Question race",
+      "contenu": "Je compte adopter un bouledogue anglais. J'ai lu que c'était une race avec beaucoup de problèmes de santé. Vos tarifs sont-ils plus élevés pour ce type de chien ?"
+    },
+    {
+      "id": 25,
+      "sujet": "SOS",
+      "contenu": "Mon chaton Plume 4 mois a mangé du lys !!! On est aux urgences véto. Il est sous perfusion. Je suis en panique totale. Dites moi que c'est pris en charge svp"
+    }
+  ]
+}

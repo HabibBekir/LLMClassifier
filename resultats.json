@@ -1,0 +1,229 @@
+{
+  "resultats": [
+    {
+      "id": 1,
+      "categorie": "sinistre",
+      "entites": {
+        "nom_animal": "Moustache",
+        "espece": "chat",
+        "numero_contrat": "SAV-2023-78542"
+      }
+    },
+    {
+      "id": 2,
+      "categorie": "resiliation",
+      "entites": {
+        "nom_animal": "Oscar",
+        "espece": "chien",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 3,
+      "categorie": "question_contrat",
+      "entites": {
+        "nom_animal": null,
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 4,
+      "categorie": "demande_remboursement",
+      "entites": {
+        "nom_animal": "Filou",
+        "espece": null,
+        "numero_contrat": "SAV-2022-11234"
+      }
+    },
+    {
+      "id": 5,
+      "categorie": "autre",
+      "entites": {
+        "nom_animal": null,
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 6,
+      "categorie": "sinistre",
+      "entites": {
+        "nom_animal": "Rocky",
+        "espece": "chien",
+        "numero_contrat": "SAV-2024-92311"
+      }
+    },
+    {
+      "id": 7,
+      "categorie": "resiliation",
+      "entites": {
+        "nom_animal": null,
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 8,
+      "categorie": "question_contrat",
+      "entites": {
+        "nom_animal": "berger australien",
+        "espece": "chien",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 9,
+      "categorie": "demande_remboursement",
+      "entites": {
+        "nom_animal": "Nala",
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 10,
+      "categorie": "question_contrat",
+      "entites": {
+        "nom_animal": "Simba",
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 11,
+      "categorie": "sinistre",
+      "entites": {
+        "nom_animal": "Luna",
+        "espece": "chien",
+        "numero_contrat": "SAV-2021-45678"
+      }
+    },
+    {
+      "id": 12,
+      "categorie": "resiliation",
+      "entites": {
+        "nom_animal": null,
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 13,
+      "categorie": "question_contrat",
+      "entites": {
+        "nom_animal": "Pepette",
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 14,
+      "categorie": "demande_remboursement",
+      "entites": {
+        "nom_animal": "Roky",
+        "espece": "chien",
+        "numero_contrat": "SAV-2023-33421"
+      }
+    },
+    {
+      "id": 15,
+      "categorie": "sinistre",
+      "entites": {
+        "nom_animal": "Tigrou",
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 16,
+      "categorie": "question_contrat",
+      "entites": {
+        "nom_animal": null,
+        "espece": "autre",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 17,
+      "categorie": "autre",
+      "entites": {
+        "nom_animal": null,
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 18,
+      "categorie": "autre",
+      "entites": {
+        "nom_animal": "Pixel",
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 19,
+      "categorie": "demande_remboursement",
+      "entites": {
+        "nom_animal": null,
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 20,
+      "categorie": "sinistre",
+      "entites": {
+        "nom_animal": "Gribouille",
+        "espece": "chat",
+        "numero_contrat": "SAV-2020-88123"
+      }
+    },
+    {
+      "id": 21,
+      "categorie": "demande_remboursement",
+      "entites": {
+        "nom_animal": null,
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 22,
+      "categorie": "resiliation",
+      "entites": {
+        "nom_animal": "Max",
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 23,
+      "categorie": "demande_remboursement",
+      "entites": {
+        "nom_animal": "Caramel",
+        "espece": null,
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 24,
+      "categorie": "question_contrat",
+      "entites": {
+        "nom_animal": null,
+        "espece": "chien",
+        "numero_contrat": null
+      }
+    },
+    {
+      "id": 25,
+      "categorie": "sinistre",
+      "entites": {
+        "nom_animal": "Plume",
+        "espece": "chat",
+        "numero_contrat": null
+      }
+    }
+  ]
+}
