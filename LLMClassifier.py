@@ -8,7 +8,7 @@ from typing import Optional, Literal
 CATEGORIES = ["sinistre", "resiliation", "question_contrat", "demande_remboursement", "autre"]
 ESPECES = ["chien", "chat", "autre"]
 
-SYSTEM_PROMPT = """Tu es un assistant qui classifie des messages clients pour Santévet (assurance santé animale).
+SYSTEM_PROMPT = """Tu es un assistant qui classifie des messages clients pour une assurance santé animale.
 Tu réponds UNIQUEMENT avec un objet JSON, sans texte avant ni après.
 
 Format attendu :
